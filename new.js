@@ -10,7 +10,7 @@ const f2 = (cb) =>{
   },1000);
 };
 
-const f3 = (cb) => console.log('there');
+const f3 = () => console.log('there');
 
 f1(()=>{
   f2(()=>{
