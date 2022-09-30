@@ -13,4 +13,3 @@ const awake = (cb)=>{
 };
 
 doWork();
-
